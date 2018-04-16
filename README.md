@@ -9,15 +9,15 @@ I love FreeCodeCamp! This was a project that was assigned to progress through th
 ## Screenshots
 Landing Page:
 
-![start screen](screenshots/screenshot1.png)
+![start screen](screenshot1.png)
 
 Random Quote:
 
-![results](screenshots/screenshot3.png)
+![results](screenshot3.png)
 
 Share to Twitter:
 
-![results](screenshots/screenshot2.png)
+![results](screenshot2.png)
 
 
 ## Summary

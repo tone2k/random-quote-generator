@@ -1,6 +1,6 @@
-# How-Do-I.IO
+# Random Quote Generator
 
-A search page for the three main methods of learning. Users can enter a search term they wish to learn and recieve results including videos, groups, and books to learn from.
+A webpage that generates amazing quotes randomly. 
 
 ## Inspiration
 
